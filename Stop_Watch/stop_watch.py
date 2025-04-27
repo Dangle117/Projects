@@ -93,7 +93,7 @@ class StopWatch(QWidget):
         vbox.addLayout(hbox)
 
         # Label
-        self.time_label.setAlignment(Qt.AlignCenter)
+        self.time_label.setAlignment(Qt.AlignCenter) # type: ignore[arg-type]
 
         # connect to function
         self.toggle_button.clicked.connect(self.toggle_timer)
@@ -117,7 +117,7 @@ class StopWatch(QWidget):
         self.lap_list.addItem(f"Lap {self.lap_list.count() + 1}: {current_time}")
 
         latest_item = self.lap_list.item(self.lap_list.count() - 2)
-        self.lap_list.scrollToItem(latest_item, QListWidget.PositionAtBottom)
+        self.lap_list.scrollToItem(latest_item, QListWidget.PositionAtBottom) # type: ignore[arg-type]
 
     def reset_time(self):
         self.timer.stop()
