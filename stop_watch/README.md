@@ -2,6 +2,8 @@
 
 A stylish and user-friendly stopwatch application built with PyQt5. It features start/stop control, lap recording, and reset functionality—all wrapped in a modern UI.
 
+--- 
+
 ## 🖼️ Features
 
 - Start/Stop the timer with a single button
