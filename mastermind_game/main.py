@@ -1,11 +1,9 @@
-import sys
 from rich import print
 import random
 
 def mastermind_game() -> None:
     
     num: str = str(random.randint(1000,9999))
-    print(num)
     hide_digit: str = "X" * 4
     
     list_hd: list[str] = list(hide_digit)
@@ -54,7 +52,6 @@ def mastermind_game() -> None:
         print("Great! You guessed the number in just 1 try! You're a Mastermind!")
 
 def main():
-    print(sys.version)
     mastermind_game()
 
 
