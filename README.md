@@ -29,14 +29,15 @@ What I've used on the project:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Dangle117/Projects.git
-   cd project-name
+    git clone https://github.com/Dangle117/Projects.git
+    cd project-name
    ```
 
 2. Navigate into any project folder:
+
 Example:
    ```bash
-   cd mastermind_game
+    cd mastermind_game
     python mastermind.py
    ```
 
