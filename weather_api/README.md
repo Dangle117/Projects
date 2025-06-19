@@ -1,4 +1,4 @@
-# 🌦️ PyQt5 Weather App
+# 🌦️ Weather API App
 A simple desktop weather application built with `PyQt5` that displays the current weather of a city using the OpenWeatherMap API.
 
 ---
@@ -38,7 +38,7 @@ A simple desktop weather application built with `PyQt5` that displays the curren
 
 1. Clone the project
 ``` bash
-git clone https://github.com/Dangle117/pyqt5-weather-app.git
+git clone https://github.com/Dangle117/weather_api.git
 ```
 
 2. Install the required packages
