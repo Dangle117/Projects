@@ -19,18 +19,20 @@ A stylish and user-friendly stopwatch application built with PyQt5. It features 
 
 ## 📸 Screenshot
 
-[imagine](app_UI_imagine/UI_imagine.png)
+![imagine](app_UI_imagine/UI_imagine.png)
 
 ## 🚀 Getting Started
 Make sure you have Python 3.x and PyQt5 installed.
 
 Install PyQt5 using pip:
-    ```bash
-    pip install pyqt5
-    ```
+    
+``` bash
+pip install pyqt5
+```
 
 Run the App
-    ```bash
-    python main.py
-    ```
+    
+```bash
+python main.py
+```
 
