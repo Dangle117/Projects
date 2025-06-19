@@ -27,23 +27,32 @@ What I've used on the project:
 
 ## 🏁 How to Run a Project
 
-1. Go into a project folder:
+1. Clone this repo:
    ```bash
+   git clone https://github.com/Dangle117/Projects.git
    cd project-name
    ```
-2. Follow the instructions in the README.md file inside that folder.
-3. Use a virtual environment if needed (.venv):
-    ```bash
-    python -m venv .venv
-    .venv\Scripts\activate  # Windows
-    # or
-    source .venv/bin/activate  # macOS/Linux
-    ```
 
-4. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Navigate into any project folder:
+Example:
+   ```bash
+   cd mastermind_game
+    python mastermind.py
+   ```
+
+3. Make sure to install any required dependencies (usually noted in the project folder’s `README.md` or in `pyproject.toml` if available).
+
+## 📦 Requirements (Common)
+
+- Python 3.7 or newer
+- rich library for styled terminal output
+- PyQt5 for GUI-based apps
+
+## 📌 Notes
+
+- Each project is self-contained in its own folder.
+- Code is beginner-friendly and well-commented.
+- You're welcome to fork, clone, or extend any of these projects!
 
 ## 🙋‍♂️ About Me
 Author: Dangle
