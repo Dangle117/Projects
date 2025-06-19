@@ -25,7 +25,7 @@ This game simulates a classic slot machine using random emoji symbols. Players c
 ---
 ## 🎮 How to Play
 
-1. Run the script:
+Run the script:
 
 ```bash
 pip install rich
