@@ -17,8 +17,8 @@ A simple desktop weather application built with `PyQt5` that displays the curren
 ---
 
 ## 🖥️ Screenshot
-![UI_photo](weather_api/UI_imagines/UI_photo.png)
-![UI_photo](weather_api/UI_imagines/UI_photo_result.png)
+![UI_photo](UI_imagines/UI_photo.png)
+![UI_photo](UI_imagines/UI_photo_result.png)
 
 ---
 
