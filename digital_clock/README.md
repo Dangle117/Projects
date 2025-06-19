@@ -54,10 +54,10 @@ python digital_clock.py
 ## 🔍 Code Overview
 
 - DigitalClock class:
-    Sets up the UI window, styles, and layout
-    Uses QTimer to refresh the time every second
-    Loads a custom .ttf font for the time display
+    - Sets up the UI window, styles, and layout
+    - Uses QTimer to refresh the time every second
+    - Loads a custom .ttf font for the time display
 
 - update_time() method:
-    Retrieves and displays current time in `hh:mm:ss AP` format
-    Displays date like `Thursday, June 19, 2025`
+    - Retrieves and displays current time in `hh:mm:ss AP` format
+    - Displays date like `Thursday, June 19, 2025`
