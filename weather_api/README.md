@@ -24,7 +24,7 @@ A simple desktop weather application built with `PyQt5` that displays the curren
 
 ## ❗ Error Messages
 
-- This app handles common API errors:
+This app handles common API errors:
 
 - `404` — City not found
 
