@@ -47,5 +47,5 @@ What I've used on the project:
 
 ## 🙋‍♂️ About Me
 Author: Dangle
-🔗 GitHub: [Dangle117][https://github.com/Dangle117]
-📧 Email: danglez1107@gmail.com
+- 🔗 GitHub: [Dangle117](https://github.com/Dangle117)
+- 📧 Email: danglez1107@gmail.com
