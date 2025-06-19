@@ -35,7 +35,7 @@ What I've used on the project:
 
 2. Navigate into any project folder:
 
-Example:
+    Example:
    ```bash
     cd mastermind_game
     python mastermind.py
