@@ -12,6 +12,11 @@ A colorful terminal-based digital alarm clock built with Python, using the [`ric
 - Compatible with Windows, macOS, and Linux
 
 ---
+## 📸 Example Output
+
+![output](example_output/output.png)
+
+---
 
 ## 📦 Requirements
 
