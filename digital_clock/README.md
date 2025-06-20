@@ -60,5 +60,5 @@ pip install pyqt5
 2. Run the App
 
 ```bash
-python digital_clock.py
+python main.py
 ```
