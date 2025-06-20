@@ -67,9 +67,3 @@ Password is valid.
 - This is a basic validator, great for beginner-level Python practice.
 
 - For real-world applications, use built-in libraries like `getpass` to hide user input, or integrate it into web forms with hashed storage.
-
----
-
-## 📝 License
-
-- This project is open source and available under the MIT License.

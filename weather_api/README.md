@@ -40,7 +40,8 @@ This app handles common API errors:
 
 1. Clone the project
 ``` bash
-git clone https://github.com/Dangle117/weather_api.git
+git clone https://github.com/Dangle117/Projects.git
+cd weather_api
 ```
 
 2. Install the required packages
@@ -75,8 +76,4 @@ python main.py
 - `PyQt5`
 
 - `requests`
-
-## 📃 License
-
-- This project is open-source and free to use.
 

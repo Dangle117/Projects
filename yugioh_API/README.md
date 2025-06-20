@@ -18,8 +18,8 @@ This is a simple Python terminal application that lets you search for **Yu-Gi-Oh
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Dangle117/yugioh-card-lookup.git
-cd yugioh-card-lookup
+git clone https://github.com/Dangle117/Projects.git
+cd yugioh_API
 ```
 
 2. Create and activate a virtual environment

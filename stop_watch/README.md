@@ -30,7 +30,6 @@ A stylish and user-friendly stopwatch application built with PyQt5. It features 
 ---
 
 ## 🚀 Getting Started
-Make sure you have Python 3.x and PyQt5 installed.
 
 Install PyQt5 using pip:
     
