@@ -24,6 +24,26 @@ A sleek and modern **digital clock** application built using **PyQt5**. It displ
 
 ---
 
+## 🔍 Code Overview
+
+- DigitalClock class:
+    - Sets up the UI window, styles, and layout
+    - Uses QTimer to refresh the time every second
+    - Loads a custom .ttf font for the time display
+
+- update_time() method:
+    - Retrieves and displays current time in `hh:mm:ss AP` format
+    - Displays date like `Thursday, June 19, 2025`
+
+
+---
+
+## 📸 Preview
+
+![imagine](UI_imagine/UI_photo.png)
+
+---
+
 ## 🚀 Getting Started
 
 1. Install Dependencies
@@ -42,22 +62,3 @@ pip install pyqt5
 ```bash
 python digital_clock.py
 ```
-
----
-
-## 📸 Preview
-
-![imagine](UI_imagine/UI_photo.png)
-
----
-
-## 🔍 Code Overview
-
-- DigitalClock class:
-    - Sets up the UI window, styles, and layout
-    - Uses QTimer to refresh the time every second
-    - Loads a custom .ttf font for the time display
-
-- update_time() method:
-    - Retrieves and displays current time in `hh:mm:ss AP` format
-    - Displays date like `Thursday, June 19, 2025`
