@@ -1,4 +1,4 @@
-# ⏰ Rich Digital Alarm Clock
+# ⏰ Alarm Clock
 
 A colorful terminal-based digital alarm clock built with Python, using the [`rich`](https://github.com/Textualize/rich) library for beautiful output and `pygame` for playing an alarm sound.
 
