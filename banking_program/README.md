@@ -1,6 +1,6 @@
-# 💰 RichBank - Terminal Banking Program
+# 💰 Dangle Bank - Terminal Banking Program
 
-RichBank is a simple and interactive terminal-based banking program written in Python. It uses the [Rich](https://github.com/Textualize/rich) library to enhance the user interface with colorful formatting, panels, and prompts.
+Dangle Bank is a simple and interactive terminal-based banking program written in Python. It uses the [Rich](https://github.com/Textualize/rich) library to enhance the user interface with colorful formatting, panels, and prompts.
 
 ---
 
