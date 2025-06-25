@@ -38,7 +38,7 @@ What I've used on the project:
     Example:
    ```bash
     cd mastermind_game
-    python mastermind.py
+    python main.py
    ```
 
 3. Make sure to install any required dependencies (usually noted in the project folder’s `README.md` or in `pyproject.toml` if available).
