@@ -41,7 +41,7 @@ class Game2048():
                 self.layout[loc[0]][loc[1]] = 4 if random.random() < 0.1 else 2
                 break
 
-    def rotate(self, grid, times):
+    def rotate(self, grid, times) -> list:
         # Rotate grid 90 degrees clockwise 'times' times
         for _ in range(times):
             grid = [list(row) for row in zip(*grid[::-1])]
@@ -98,28 +98,40 @@ class Game2048():
                 # Use different colors based on value
                 if cell == 0:
                     styled_row.append("[dim]-[/dim]")
+                
                 elif cell == 2:
                     styled_row.append(f"[cyan]{cell}[/cyan]")
+                
                 elif cell == 4:
                     styled_row.append(f"[blue]{cell}[/blue]")
+                
                 elif cell == 8:
                     styled_row.append(f"[magenta]{cell}[/magenta]")
+                
                 elif cell == 16:
                     styled_row.append(f"[green]{cell}[/green]")
+                
                 elif cell == 32:
                     styled_row.append(f"[yellow]{cell}[/yellow]")
+                
                 elif cell == 64:
                     styled_row.append(f"[red]{cell}[/red]")
+                
                 elif cell == 128:
                     styled_row.append(f"[bright_cyan]{cell}[/bright_cyan]")
+                
                 elif cell == 256:
                     styled_row.append(f"[bright_magenta]{cell}[/bright_magenta]")
+                
                 elif cell == 512:
                     styled_row.append(f"[bright_green]{cell}[/bright_green]")
+                
                 elif cell == 1024:
                     styled_row.append(f"[bright_yellow]{cell}[/bright_yellow]")
+                
                 elif cell == 2048:
                     styled_row.append(f"[reverse][bold bright_white on bright_red]{cell}[/bold bright_white on bright_red][/reverse]")
+                
                 else:
                     styled_row.append(f"[bold white]{cell}[/bold white]")
             table.add_row(*styled_row)
@@ -151,7 +163,7 @@ class Game2048():
                 console.print("[bold red]YOU LOSE[/bold red]")
                 return
 
-    def auto_play(self, delay=0.1):
+    def auto_play(self, delay=0.1) -> None:
         # Simple AI that chooses move with most empty cells + corner bonus
         import time
         while True:
@@ -205,7 +217,7 @@ class Game2048():
                 console.print("[bold red]AI LOSES![/bold red]")
                 return
    
-def main():
+def main() -> None:
     # Main entry: choose manual or AI mode
     mode: str = console.input("Play 👤 or AI_Play 🤖 (p or a): ").lower()
     game = Game2048()
