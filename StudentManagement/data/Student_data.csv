@@ -1,0 +1,201 @@
+﻿student_id,full_name,birthyear,major,CSI106,PFP191,MAD101,MAE101
+IT200000,Nguyen Ngoc An,2006,Information Technology,6.19,4.16,9.18,7.7
+SE200001,Le Quang Hieu,2006,Software Engineering,6.32,6.63,5.03,4.81
+DS200002,Do Thi Hieu,2006,Data Science,8.62,8.65,7.2,7.85
+IT180003,Pham Thi Hieu,2004,Information Technology,9.38,5.28,8.29,8.71
+CE200004,Pham Ngoc Chau,2006,Computer Engineering,7.2,5.37,4.05,8.95
+AI180005,Le Ngoc Phuong,2004,Artificial Intelligence,6.43,7.94,7.45,4.32
+AI180006,Dang Van Khanh,2004,Artificial Intelligence,6.5,8.59,8.57,6.91
+CE210007,Ngo Bao Khanh,2007,Computer Engineering,7.31,6.3,8.36,6.74
+AI190008,Ngo Quang Ha,2005,Artificial Intelligence,9.52,5.27,5.45,9.88
+SE200009,Nguyen Van Chau,2006,Software Engineering,4.59,6.8,7.85,9.25
+IT200010,Tran Van Khanh,2006,Information Technology,9.56,4.79,4.14,5.88
+SE200011,Ngo Thi Hieu,2006,Software Engineering,4.77,5.2,8.4,8.77
+CS180012,Vo Thi Long,2004,Cybersecurity,4.01,4.53,7.34,7.94
+DS200013,Le Anh Ha,2006,Data Science,4.14,7.86,9.9,8.64
+CE180014,Tran Ngoc Chau,2004,Computer Engineering,4.5,8.76,4.12,4.12
+IT200015,Hoang Van Chau,2006,Information Technology,6.45,5.36,8.84,7.07
+AI190016,Vo Van Dung,2005,Artificial Intelligence,7.26,5.57,9.68,7.53
+DS180017,Ngo Minh Nam,2004,Data Science,9.0,6.09,4.27,9.31
+DS200018,Hoang Van Chau,2006,Data Science,8.19,9.47,8.74,8.64
+CE210019,Nguyen Quang Long,2007,Computer Engineering,9.03,7.44,7.09,6.66
+SE210020,Bui Bao Nam,2007,Software Engineering,4.24,7.62,8.76,6.15
+SE180021,Le Hoai Long,2004,Software Engineering,5.08,8.99,6.67,7.73
+AI200022,Nguyen Gia Long,2006,Artificial Intelligence,6.34,6.61,7.19,8.16
+CS200023,Hoang Duc Long,2006,Cybersecurity,7.21,8.3,7.81,7.63
+AI210024,Do Minh Khanh,2007,Artificial Intelligence,7.3,7.54,6.75,9.76
+SE210025,Pham Minh Nam,2007,Software Engineering,8.53,4.07,5.1,7.12
+CS200026,Pham Van Long,2006,Cybersecurity,6.4,5.47,8.01,7.19
+AI210027,Vo Gia Ha,2007,Artificial Intelligence,6.09,8.69,6.68,5.01
+DS190028,Dang Anh Dung,2005,Data Science,9.11,8.07,7.61,5.8
+IT200029,Do Anh Phuong,2006,Information Technology,4.07,6.03,5.49,4.37
+IT180030,Hoang Gia Long,2004,Information Technology,8.25,6.64,8.74,4.3
+AI190031,Vo Hoai Hieu,2005,Artificial Intelligence,4.15,9.62,5.88,6.59
+AI210032,Ngo Quang An,2007,Artificial Intelligence,7.8,4.29,4.27,9.94
+DS210033,Bui Bao Dung,2007,Data Science,8.95,8.66,5.93,9.86
+SE180034,Hoang Thi Chau,2004,Software Engineering,7.37,6.37,9.25,4.15
+AI200035,Dang Anh Khanh,2006,Artificial Intelligence,4.97,7.51,5.8,7.61
+DS190036,Ngo Quang An,2005,Data Science,5.27,6.64,9.81,5.55
+DS210037,Tran Gia An,2007,Data Science,7.73,9.09,8.21,8.24
+CE200038,Ngo Gia Hieu,2006,Computer Engineering,6.34,9.86,6.64,6.43
+SE200039,Pham Gia Binh,2006,Software Engineering,5.7,5.69,9.14,6.53
+SE200040,Ngo Thi Hieu,2006,Software Engineering,7.99,9.54,8.06,4.12
+AI180041,Do Ngoc Hieu,2004,Artificial Intelligence,9.06,7.45,6.43,8.27
+IT210042,Pham Minh Chau,2007,Information Technology,5.26,5.2,6.75,4.23
+SE190043,Vo Thi An,2005,Software Engineering,5.19,5.27,8.14,6.27
+IT180044,Dang Gia Ha,2004,Information Technology,7.73,5.57,9.03,8.8
+AI180045,Ngo Thi Dung,2004,Artificial Intelligence,5.82,5.6,6.45,7.1
+CS190046,Le Quang Ha,2005,Cybersecurity,6.09,9.46,5.0,6.21
+CE180047,Le Ngoc Ha,2004,Computer Engineering,9.93,5.84,6.37,8.03
+AI200048,Pham Minh Khanh,2006,Artificial Intelligence,7.19,4.52,4.98,6.52
+SE190049,Le Hoai Chau,2005,Software Engineering,9.34,4.31,7.93,7.95
+DS190050,Le Anh Dung,2005,Data Science,6.71,7.18,4.9,4.72
+SE190051,Do Minh Nam,2005,Software Engineering,7.87,5.34,7.16,8.56
+IT210052,Vo Anh Dung,2007,Information Technology,4.28,7.98,6.17,4.21
+AI210053,Hoang Minh Khanh,2007,Artificial Intelligence,9.78,4.84,6.34,9.82
+SE190054,Pham Anh Long,2005,Software Engineering,7.48,5.71,7.12,8.76
+AI210055,Nguyen Ngoc Hieu,2007,Artificial Intelligence,7.18,5.45,4.01,9.83
+CS200056,Nguyen Thi Nam,2006,Cybersecurity,8.67,9.96,9.77,4.4
+DS190057,Do Thi Hieu,2005,Data Science,4.35,9.05,8.44,9.38
+CE200058,Nguyen Ngoc An,2006,Computer Engineering,5.23,6.4,9.82,6.68
+SE190059,Pham Ngoc An,2005,Software Engineering,5.45,4.62,7.71,7.9
+DS180060,Nguyen Anh Hieu,2004,Data Science,9.83,4.04,9.51,5.85
+CE180061,Dang Minh Chau,2004,Computer Engineering,6.94,4.63,7.13,8.03
+AI190062,Nguyen Gia Binh,2005,Artificial Intelligence,6.98,4.15,7.28,8.28
+SE210063,Bui Gia Ha,2007,Software Engineering,8.83,8.93,7.24,8.32
+CS190064,Pham Duc Nam,2005,Cybersecurity,5.56,6.81,5.47,9.57
+CS210065,Dang Minh Binh,2007,Cybersecurity,9.32,4.06,5.37,8.87
+DS180066,Ngo Van An,2004,Data Science,4.46,4.55,7.72,9.42
+DS200067,Pham Ngoc Ha,2006,Data Science,6.77,5.53,4.73,8.8
+IT200068,Dang Thi Chau,2006,Information Technology,7.51,8.85,8.63,7.4
+SE200069,Tran Duc Long,2006,Software Engineering,7.72,7.72,8.01,8.34
+DS180070,Bui Anh Dung,2004,Data Science,5.99,5.35,6.16,5.94
+DS200071,Tran Quang Dung,2006,Data Science,7.61,9.05,5.57,4.45
+CE180072,Bui Anh Hieu,2004,Computer Engineering,6.63,7.96,8.3,5.51
+DS200073,Pham Bao Dung,2006,Data Science,7.23,5.54,9.7,4.11
+AI210074,Vo Bao Nam,2007,Artificial Intelligence,5.25,4.14,7.32,6.31
+CE200075,Vo Van An,2006,Computer Engineering,5.81,6.44,8.13,4.55
+CE180076,Bui Thi Phuong,2004,Computer Engineering,5.04,5.99,9.21,4.83
+DS210077,Hoang Bao Khanh,2007,Data Science,7.76,6.2,6.66,7.13
+DS200078,Bui Duc Dung,2006,Data Science,7.96,4.03,5.94,5.71
+AI210079,Dang Hoai Nam,2007,Artificial Intelligence,6.74,7.29,7.77,5.62
+SE190080,Tran Gia Binh,2005,Software Engineering,5.23,5.99,9.82,6.61
+DS190081,Bui Van Chau,2005,Data Science,8.3,5.31,6.7,4.1
+CS210082,Do Thi Binh,2007,Cybersecurity,7.72,4.28,7.84,9.77
+AI180083,Do Hoai Khanh,2004,Artificial Intelligence,6.34,7.67,5.53,5.78
+DS180084,Tran Bao Phuong,2004,Data Science,8.93,5.48,7.87,7.79
+CS190085,Do Van Hieu,2005,Cybersecurity,9.13,4.08,7.25,7.67
+AI180086,Le Quang Phuong,2004,Artificial Intelligence,8.55,8.17,6.94,6.42
+IT190087,Do Hoai Phuong,2005,Information Technology,5.6,7.48,9.04,6.68
+DS200088,Hoang Thi An,2006,Data Science,7.93,9.61,9.6,4.14
+CS210089,Le Thi Long,2007,Cybersecurity,6.75,7.96,4.47,8.91
+CS210090,Hoang Gia Long,2007,Cybersecurity,6.22,4.37,7.02,8.79
+CS180091,Pham Gia Hieu,2004,Cybersecurity,6.8,5.48,4.48,9.82
+AI200092,Le Ngoc Phuong,2006,Artificial Intelligence,4.68,7.87,5.85,4.42
+SE180093,Do Bao Chau,2004,Software Engineering,4.75,9.57,9.48,9.01
+CS190094,Bui Gia Ha,2005,Cybersecurity,4.27,5.21,5.36,6.27
+SE200095,Nguyen Van Dung,2006,Software Engineering,7.95,5.26,7.2,6.4
+AI210096,Do Bao Hieu,2007,Artificial Intelligence,7.86,4.75,6.33,4.1
+CS200097,Nguyen Thi Chau,2006,Cybersecurity,4.47,9.83,6.67,6.38
+AI210098,Bui Minh Ha,2007,Artificial Intelligence,8.94,5.01,8.82,8.51
+IT180099,Hoang Van Khanh,2004,Information Technology,5.39,9.5,5.36,4.53
+SE210100,Vo Van Hieu,2007,Software Engineering,7.04,4.46,9.54,4.31
+SE210101,Tran Minh Nam,2007,Software Engineering,6.47,6.86,9.82,7.5
+CE200102,Pham Thi Hieu,2006,Computer Engineering,4.33,9.07,8.53,8.02
+IT210103,Pham Minh Hieu,2007,Information Technology,8.23,8.15,4.15,8.77
+IT190104,Bui Ngoc Hieu,2005,Information Technology,8.69,4.1,8.59,8.8
+SE180105,Dang Minh Hieu,2004,Software Engineering,6.74,9.0,8.14,9.34
+DS210106,Nguyen Thi Khanh,2007,Data Science,5.56,7.85,7.64,7.73
+IT190107,Vo Gia Ha,2005,Information Technology,7.67,6.83,5.9,9.74
+CE180108,Tran Van Chau,2004,Computer Engineering,5.44,6.78,9.82,8.04
+AI180109,Le Thi Khanh,2004,Artificial Intelligence,8.97,6.49,7.04,4.9
+CS200110,Do Anh An,2006,Cybersecurity,4.64,5.27,8.9,6.18
+IT180111,Tran Anh Nam,2004,Information Technology,7.91,4.66,8.22,6.51
+DS180112,Tran Hoai Long,2004,Data Science,7.83,4.1,8.93,7.35
+CS210113,Vo Ngoc Phuong,2007,Cybersecurity,5.97,7.05,6.31,4.31
+DS200114,Le Gia An,2006,Data Science,7.37,4.23,6.01,8.97
+DS210115,Vo Gia An,2007,Data Science,6.21,7.68,9.03,9.23
+IT190116,Nguyen Thi Khanh,2005,Information Technology,7.72,6.65,6.39,9.95
+DS190117,Dang Ngoc Dung,2005,Data Science,8.45,5.3,8.51,4.01
+AI200118,Nguyen Thi Ha,2006,Artificial Intelligence,6.71,7.18,7.12,7.97
+SE200119,Pham Minh Hieu,2006,Software Engineering,5.38,8.72,9.41,9.03
+IT190120,Vo Ngoc Phuong,2005,Information Technology,5.62,7.48,7.58,6.13
+SE200121,Bui Van Hieu,2006,Software Engineering,9.0,7.91,9.11,6.2
+CE200122,Nguyen Duc Dung,2006,Computer Engineering,5.31,4.93,5.58,4.4
+CE190123,Tran Duc Hieu,2005,Computer Engineering,5.82,6.82,4.02,8.06
+SE180124,Hoang Hoai Long,2004,Software Engineering,9.95,8.94,6.42,9.58
+SE190125,Pham Ngoc An,2005,Software Engineering,4.81,5.98,5.26,8.91
+CS210126,Tran Ngoc Binh,2007,Cybersecurity,5.37,5.83,7.35,5.08
+IT210127,Bui Anh Ha,2007,Information Technology,8.71,4.62,4.32,9.27
+AI200128,Hoang Gia Dung,2006,Artificial Intelligence,5.05,9.67,4.43,8.56
+CS210129,Le Thi An,2007,Cybersecurity,7.27,6.99,7.76,5.5
+DS210130,Do Minh Hieu,2007,Data Science,9.03,4.42,5.76,5.01
+IT200131,Tran Hoai Chau,2006,Information Technology,9.31,8.36,5.65,9.92
+AI210132,Pham Anh Khanh,2007,Artificial Intelligence,4.5,4.89,9.03,4.45
+IT210133,Le Thi Ha,2007,Information Technology,6.71,6.2,6.34,6.11
+CE190134,Bui Gia Ha,2005,Computer Engineering,6.44,6.7,4.73,5.52
+CE200135,Dang Thi Khanh,2006,Computer Engineering,8.07,7.04,6.38,6.36
+DS200136,Dang Thi Long,2006,Data Science,7.07,7.74,5.34,8.74
+SE190137,Bui Ngoc Hieu,2005,Software Engineering,9.13,5.74,4.85,7.64
+IT210138,Vo Anh Chau,2007,Information Technology,8.18,7.08,7.73,9.55
+AI200139,Vo Duc Binh,2006,Artificial Intelligence,5.81,8.07,7.94,7.51
+IT190140,Nguyen Hoai Binh,2005,Information Technology,5.48,4.34,8.63,9.78
+SE210141,Nguyen Quang Dung,2007,Software Engineering,9.59,6.6,8.54,8.22
+CS190142,Dang Van Hieu,2005,Cybersecurity,6.42,5.51,6.92,5.47
+SE180143,Bui Bao Binh,2004,Software Engineering,7.42,4.22,4.55,7.98
+AI200144,Hoang Van Binh,2006,Artificial Intelligence,7.68,4.49,9.43,5.96
+CS200145,Bui Thi Ha,2006,Cybersecurity,6.58,9.28,8.91,7.48
+CS180146,Ngo Anh Khanh,2004,Cybersecurity,5.65,9.5,7.51,4.02
+CS190147,Le Anh Dung,2005,Cybersecurity,5.98,4.13,8.08,6.43
+IT190148,Dang Duc Chau,2005,Information Technology,7.59,4.66,5.19,5.43
+DS190149,Vo Duc Chau,2005,Data Science,5.28,9.3,5.1,4.85
+CE200150,Pham Hoai Long,2006,Computer Engineering,4.57,9.7,6.53,7.23
+IT190151,Dang Quang Khanh,2005,Information Technology,9.05,7.28,5.18,8.9
+AI180152,Bui Van An,2004,Artificial Intelligence,8.49,8.94,9.96,8.86
+IT190153,Bui Duc Binh,2005,Information Technology,6.86,6.6,9.88,5.29
+AI210154,Vo Minh Ha,2007,Artificial Intelligence,7.9,9.74,7.11,9.89
+SE210155,Do Hoai Binh,2007,Software Engineering,4.34,5.17,6.47,4.79
+DS190156,Do Hoai Chau,2005,Data Science,8.11,9.48,5.52,8.0
+AI200157,Dang Gia Ha,2006,Artificial Intelligence,4.91,4.87,7.66,5.37
+SE210158,Ngo Hoai Dung,2007,Software Engineering,9.64,5.58,6.71,4.73
+CE210159,Dang Thi Chau,2007,Computer Engineering,6.34,9.31,8.01,6.27
+AI180160,Hoang Quang Binh,2004,Artificial Intelligence,6.82,5.51,9.88,5.33
+DS180161,Le Duc Khanh,2004,Data Science,5.06,7.19,7.73,6.22
+SE180162,Bui Minh Binh,2004,Software Engineering,6.52,4.69,5.72,6.26
+DS200163,Le Ngoc Chau,2006,Data Science,6.31,5.36,5.22,4.72
+DS180164,Ngo Hoai Ha,2004,Data Science,8.56,6.71,8.4,4.03
+IT210165,Ngo Minh Long,2007,Information Technology,7.36,4.39,9.92,9.77
+CS200166,Hoang Duc Chau,2006,Cybersecurity,9.53,8.45,5.74,7.16
+IT190167,Vo Bao Binh,2005,Information Technology,9.5,8.98,6.7,6.48
+AI200168,Bui Van An,2006,Artificial Intelligence,4.16,9.57,7.76,9.89
+AI180169,Ngo Anh Long,2004,Artificial Intelligence,9.29,6.42,5.56,7.13
+CS190170,Dang Thi Chau,2005,Cybersecurity,4.65,7.42,4.37,7.74
+AI200171,Dang Gia Hieu,2006,Artificial Intelligence,4.56,5.7,8.81,8.02
+CE200172,Le Minh Khanh,2006,Computer Engineering,7.44,9.8,5.44,5.31
+IT200173,Bui Anh Long,2006,Information Technology,5.84,6.53,4.59,7.87
+CE190174,Pham Thi An,2005,Computer Engineering,7.86,6.88,4.65,4.89
+CS190175,Nguyen Thi Dung,2005,Cybersecurity,5.51,9.04,8.61,7.74
+AI200176,Pham Minh Dung,2006,Artificial Intelligence,4.72,5.81,8.91,9.42
+DS210177,Dang Quang Khanh,2007,Data Science,5.17,6.08,7.72,7.16
+DS200178,Vo Thi Hieu,2006,Data Science,7.55,9.91,7.31,9.89
+SE210179,Pham Hoai Binh,2007,Software Engineering,9.59,9.92,8.2,7.8
+IT180180,Tran Van Dung,2004,Information Technology,5.44,5.67,5.76,9.85
+IT200181,Ngo Anh Phuong,2006,Information Technology,7.79,5.91,5.37,7.82
+SE180182,Nguyen Ngoc Chau,2004,Software Engineering,9.95,6.81,5.32,6.27
+DS190183,Do Ngoc Chau,2005,Data Science,6.48,8.93,7.46,6.25
+SE200184,Nguyen Anh Phuong,2006,Software Engineering,8.84,7.55,9.89,5.95
+SE190185,Tran Anh Long,2005,Software Engineering,6.23,7.43,8.01,9.41
+SE190186,Do Bao Binh,2005,Software Engineering,4.21,8.82,5.59,4.44
+SE180187,Le Hoai Chau,2004,Software Engineering,4.59,7.35,7.43,8.47
+CE180188,Tran Ngoc Khanh,2004,Computer Engineering,7.28,8.92,6.71,5.12
+CE180189,Tran Ngoc Chau,2004,Computer Engineering,8.36,7.29,6.09,8.17
+CS210190,Hoang Hoai Hieu,2007,Cybersecurity,9.95,5.19,4.47,8.22
+SE180191,Hoang Ngoc Nam,2004,Software Engineering,7.31,7.33,5.72,7.62
+CS210192,Hoang Ngoc Phuong,2007,Cybersecurity,7.01,6.09,4.53,9.07
+DS190193,Vo Gia Phuong,2005,Data Science,7.1,7.91,9.24,8.94
+SE180194,Ngo Duc Nam,2004,Software Engineering,7.62,4.56,8.15,4.7
+SE200195,Ngo Duc Binh,2006,Software Engineering,4.38,7.67,7.9,5.29
+CS180196,Dang Minh Ha,2004,Cybersecurity,4.9,7.59,4.95,5.39
+DS180197,Le Bao Long,2004,Data Science,5.23,10.0,6.85,9.24
+CS200198,Le Van Dung,2006,Cybersecurity,5.66,6.61,7.07,9.33
+SE200199,Pham Hoai Khanh,2006,Software Engineering,6.82,9.24,5.89,6.26
